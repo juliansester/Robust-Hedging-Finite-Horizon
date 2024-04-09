@@ -12,12 +12,13 @@ As a concrete application, we study the robust hedging problem of a financial de
 ## Notebooks:
 The file [Hedging](https://github.com/juliansester/Robust-Hedging-Finite-Horizon/blob/main/Hedging.ipynb) contains the python notebook related to the example from Section 5.
 
-
+## Preprint:
+[Link](https://arxiv.org/abs/2404.05230)
 
 ## License
 MIT License
 
-Copyright (c) 2021 Julian Sester
+Copyright (c) 2024 Julian Sester
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
