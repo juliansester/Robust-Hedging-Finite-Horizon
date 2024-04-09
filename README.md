@@ -9,8 +9,8 @@ Our framework allows to consider a variety of different path-dependent ambiguity
 As a concrete application, we study the robust hedging problem of a financial derivative under an asymmetric (and non-convex) loss function accounting for different preferences of sell- and buy side when it comes to the hedging of financial derivatives. As our entirely data-driven ambiguity set of probability measures, we consider Wasserstein-balls around the empirical measure derived from real financial data. We demonstrate that during adverse scenarios such as a financial crisis, our robust approach outperforms typical model-based hedging strategies such as the classical \emph{Delta-hedging} strategy as well as the hedging strategy obtained in the non-robust setting with respect to the empirical measure and therefore overcomes the problem of model misspecification in such critical periods. 
 
 
-Notebooks:
-The file 'Hedging' contains the python notebook related to the example from Section 5.
+## Notebooks:
+The file [Hedging](https://github.com/juliansester/Robust-Hedging-Finite-Horizon/blob/main/Hedging.ipynb) contains the python notebook related to the example from Section 5.
 
 
 
